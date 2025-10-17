@@ -177,6 +177,7 @@ python3 main_v2.py test
 3. 切换到 `Network` 标签页，刷新页面
 4. 点击任意请求，找到 `Request Headers` 中的 `Cookie`
 5. 复制完整Cookie字符串到配置文件
+<img width="1285" height="772" alt="image" src="https://github.com/user-attachments/assets/2d7f1e69-df78-4c01-aaf3-116c3e111846" />
 
 **配置示例：**
 ```json
@@ -288,3 +289,4 @@ python3 main_v2.py test
 ---
 
 **🎉 享受高效的B站动态监控体验！**
+
