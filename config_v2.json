@@ -4,23 +4,11 @@
         "secret": "SECceaba2992c59fb23ddd98517d68b0332736f62d45fecb8c887b6bf26eecf4731"
     },
     "bilibili": {
-        "cookie_string": "buvid3=F3CE86B4-40B8-6513-6927-E68F23D498F366867infoc; b_nut=1760410066; b_lsid=A4816ADB_199E09DD876; _uuid=2CF1012E7-19B6-156E-3734-DF41053EF1A10665024infoc; buvid_fp=8ef6aef4ad8bf45ea08df623dd9ba9bd; enable_web_push=DISABLE; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjA2NjkyNjksImlhdCI6MTc2MDQxMDAwOSwicGx0IjotMX0.TZhoPdWJkKJmGRA6MN_kMPL-4X2BIo8ZnCHUKA8jpwI; bili_ticket_expires=1760669209; buvid4=2444E6BD-B358-3FC4-118E-825D5F9D404D69338-025101410-Y/Zys2YMVZlQ/pKVoEVULA%3D%3D; home_feed_column=5; SESSDATA=47fe6f58%2C1775962095%2Cee036%2Aa1CjDvlHIDNw0AxaGTCHU2-QUDELBpA4Tp25eDZe8P8dr4ZreIzsE1jcBnfkyTbsefe7QSVkRCMXdWSEVJY2kwZ0tzRE1keXE4TDd1RVN0U2NsOW1VNEpRNWFWTFFaMk1JeVR1aHFIX0tISlZwMW1zZnRZNFRZX2RyOVozajhLV3UxcF9tQ3M2R3FnIIEC; bili_jct=0fdd4116bdb46d31d68dddd75b6fb396; DedeUserID=1485339841; DedeUserID__ckMd5=3f94e198ad9606cb; sid=7scmtknu; browser_resolution=1494-150",
+        "cookie_string": "在此填入完整cookie",
         "up_list": [
             {
                 "uid": "322005137",
                 "name": "史诗级韭菜",
-                "enabled": true,
-                "monitor_types": ["dynamic", "video"]
-            },
-            {
-                "uid": "421387088",
-                "name": "貔貅PX_B站账户",
-                "enabled": true,
-                "monitor_types": ["dynamic", "video"]
-            },
-            {
-                "uid": "1485339841",
-                "name": "开心万万",
                 "enabled": true,
                 "monitor_types": ["dynamic", "video"]
             }
